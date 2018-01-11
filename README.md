@@ -1,6 +1,6 @@
 # Uppsala University Library - Data Science Workshop
 
-One day with introduction to OpenRefine, Github and VosViewer for Librarians at Uppsala University Library prepared, planned and collected by Jeannette Ekstrøm, DTU Library - [jeek@dtu.dk](mailto:jeek@dtu.dk)
+One day with introduction to OpenRefine, Github and VosViewer for Librarians at [Uppsala University Library](https://ub.uu.se/) prepared, planned and collected by Jeannette Ekstrøm, DTU Library - [jeek@dtu.dk](mailto:jeek@dtu.dk)
 
 1. [Homepage](homepage.md)
 1. [Program](program.md)
